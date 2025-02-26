@@ -69,6 +69,8 @@
       color: $main-text-color;
       cursor: pointer;
       transition: 0.3s;
+      border: none;
+      outline: none;
 
       @include on-tablet {
         margin-top: 32px;
